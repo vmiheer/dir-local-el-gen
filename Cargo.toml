@@ -1,0 +1,11 @@
+[package]
+name = "dir-local-el-gen"
+version = "0.1.0"
+edition = "2021"
+description = "Generate dir_local.el from env variable"
+repository = "https://github.com/vmiheer/dir-local-el-gen"
+license = "GPL-3.0-or-later"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
